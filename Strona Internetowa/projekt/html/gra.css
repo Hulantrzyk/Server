@@ -1,0 +1,24 @@
+#game-board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: #5dade2;
+    color: #fff;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+#random-letter {
+    font-size: 50px;
+    line-height: 200px;
+}
+
+#game-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    color: #e74c3c;
+    margin-top: 20px;
+}
